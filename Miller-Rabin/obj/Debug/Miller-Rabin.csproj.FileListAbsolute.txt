@@ -1,0 +1,9 @@
+c:\users\piotr\documents\visual studio 2012\Projects\Miller-Rabin\Miller-Rabin\bin\Debug\Miller-Rabin.exe.config
+c:\users\piotr\documents\visual studio 2012\Projects\Miller-Rabin\Miller-Rabin\obj\Debug\Miller-Rabin.csprojResolveAssemblyReference.cache
+c:\users\piotr\documents\visual studio 2012\Projects\Miller-Rabin\Miller-Rabin\obj\Debug\Miller_Rabin.Form1.resources
+c:\users\piotr\documents\visual studio 2012\Projects\Miller-Rabin\Miller-Rabin\obj\Debug\Miller_Rabin.Properties.Resources.resources
+c:\users\piotr\documents\visual studio 2012\Projects\Miller-Rabin\Miller-Rabin\obj\Debug\Miller-Rabin.csproj.GenerateResource.Cache
+c:\users\piotr\documents\visual studio 2012\Projects\Miller-Rabin\Miller-Rabin\bin\Debug\Miller-Rabin.exe
+c:\users\piotr\documents\visual studio 2012\Projects\Miller-Rabin\Miller-Rabin\bin\Debug\Miller-Rabin.pdb
+c:\users\piotr\documents\visual studio 2012\Projects\Miller-Rabin\Miller-Rabin\obj\Debug\Miller-Rabin.exe
+c:\users\piotr\documents\visual studio 2012\Projects\Miller-Rabin\Miller-Rabin\obj\Debug\Miller-Rabin.pdb
